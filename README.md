@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-<p align="center">
-  ![](https://github.com/banescuema101/banescuema101/blob/main/gif_computer.gif)
-</p>
+<div align="center">
+  <a href="https://github.com/banescuema101/banescuema101/blob/main/gif_computer.gif">
+    <img src="https://github.com/banescuema101/banescuema101/blob/main/gif_computer.gif" alt="Gif Computer" width="500"/>
+  </a>
+</div>
 
 # I'm a passionate computer science student, in my second year at the Faculty of Automation Control and Computers Science, UPB.
 
