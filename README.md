@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://github.com/banescuema101/banescuema101/blob/main/gif_computer.gif)
 <!--
 **banescuema101/banescuema101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
