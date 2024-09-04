@@ -11,7 +11,7 @@
 
 
 ## Languages and Tools:
-![C](https://img.shields.io/badge/-C-Advanced-A8B9CC?logo=c&logoColor=white&style=flat)
+![C Beginner](https://img.shields.io/badge/C-Beginner-A8B9CC?style=flat)
 ![Python](https://img.shields.io/badge/-Python-Intermediate-3776AB?logo=python&logoColor=white&style=flat)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-Beginner-3F51B5?logo=tkinter&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-Beginner-007396?logo=java&logoColor=white&style=flat)
