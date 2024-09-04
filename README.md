@@ -10,13 +10,14 @@
 - 🌱 **Learning:** I’m currently learning Java, C, Python, frameworks like Tkinter and I take courses in this area.
 
 
-## Languages and Tools:
-![C Beginner](https://img.shields.io/badge/C-Beginner-A8B9CC?style=flat)
-![Python](https://img.shields.io/badge/-Python-Intermediate-3776AB?logo=python&logoColor=white&style=flat)
-![Tkinter](https://img.shields.io/badge/-Tkinter-Beginner-3F51B5?logo=tkinter&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-Beginner-007396?logo=java&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Git](https://img.shields.io/badge/-Git-Advanced-F05032?logo=git&logoColor=white&style=flat)
+## Languages, Skills and Profiency Levels:
+
+![C Advanced](https://img.shields.io/badge/C-Beginner-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python Intermediate](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter Beginner](https://img.shields.io/badge/Tkinter-Beginner-3F51B5?style=for-the-badge)
+![Java Beginner](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript Intermediate](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git Advanced](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Most Used Languages:
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
