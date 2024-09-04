@@ -20,7 +20,8 @@
 ![C Advanced](https://img.shields.io/badge/C-Beginner-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python Intermediate](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter Beginner](https://img.shields.io/badge/Tkinter-Beginner-3F51B5?style=for-the-badge)
-![Java Beginner](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)
+<!--![Java Beginner](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)-->
+![Beginner](https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original-wordmark.svg?plain=1)
 ![JavaScript Intermediate](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git Advanced](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
 
