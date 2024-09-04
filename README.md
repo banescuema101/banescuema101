@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 🎓 **My studies:** I'm a passionate computer science student in my second year at the Faculty of Automatic Control and Computer Science, UPB.
+- 🎓 **My studies:** [Faculty of Automatic Control and Computer Science] at [UPB].
 - 🧠 **Interests:** Web development, financial computing, mathematical statistics
 - 🌱 **Learning:** I’m currently learning Java, C, Python, frameworks like Tkinter and I take courses in this area.
 
