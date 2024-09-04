@@ -1,13 +1,14 @@
 ## Hi there 👋
 
 ![](https://github.com/banescuema101/banescuema101/blob/main/gif_computer.gif)
+# I'm a passionate computer science student, in my second year at the Faculty of Automation Control and Computers Science, UPB.
+- 🌱 I’m currently learning Java, Python, frameworks and I take courses in this area.
 <!--
 **banescuema101/banescuema101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
