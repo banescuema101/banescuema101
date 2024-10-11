@@ -17,10 +17,10 @@
 
 ## Languages, Skills and Profiency Levels:
 
-![C Advanced](https://img.shields.io/badge/C-Advancedr-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C Advanced](https://img.shields.io/badge/C-Advanced-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python Intermediate](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter Beginner](https://img.shields.io/badge/Tkinter-Beginner-3F51B5?style=for-the-badge)
-![Java Intermediate](https://img.shields.io/badge/Java-Beginner-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java Intermediate](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript Intermediate](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git Advanced](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
 
