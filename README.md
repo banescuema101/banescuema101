@@ -6,7 +6,7 @@
   </a>
 </div>
 
-# I'm a passionate computer science student, in my second year at the Faculty of Automation Control and Computers Science, UPB.
+# Computer Science student, in my second year at the Faculty of Automation Control and Computers Science, passionate about backend development, with experience in Java, Python, and web technologies. Skilled in building dynamic applications, problem-solving, and working collaboratively in team projects. Currently exploring Spring Framework to deepen backend expertise. Seeking a summer internship to apply and enhance my technical and analytical skills in a professional setting.
 
 ## About Me
 
