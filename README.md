@@ -12,7 +12,7 @@
 
 - 🎓 **My studies:** Faculty of Automatic Control and Computer Science, UPB
 - 🧠 **Interests:** Web development, financial computing, mathematical statistics
-- 🌱 **Learning:** I’m currently learning Java, C, Python, frameworks like Tkinter and I take courses in this area.
+- 🌱 **Learning:** I’m currently deepening my knowledge in Java, C, and Python. In parallel, I’m learning about Computer Vision, Machine Learning algorithms, and satellite data processing, with a focus on building real-world applications using geospatial data and AI.
 
 
 ## Languages, Skills and Profiency Levels:
