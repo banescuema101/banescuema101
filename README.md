@@ -26,7 +26,7 @@
 ![Flask Beginner](https://img.shields.io/badge/Flask-Beginner-000?style=for-the-badge&logo=flask&logoColor=fff)
 ![Tkinter Beginner](https://img.shields.io/badge/Tkinter-Beginner-3F51B5?style=for-the-badge)
 ![JavaScript Intermediate](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Operating System][Advanced](https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Operating System_Advanced](https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git Advanced](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Most Used Languages:
