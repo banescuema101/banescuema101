@@ -17,16 +17,16 @@
 
 ## Languages, Skills and Profiency Levels:
 
-![Java Advanced](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java Intermediate](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C Advanced](https://img.shields.io/badge/C-Advanced-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++_Intermediate](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![OpenCV_Beginner](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+![C++ Intermediate](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenCV Beginner](https://img.shields.io/badge/OpenCV-Beginner-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Intermediate-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Python Intermediate](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+![Flask Beginner](https://img.shields.io/badge/Flask-Beginner-000?style=for-the-badge&logo=flask&logoColor=fff)
 ![Tkinter Beginner](https://img.shields.io/badge/Tkinter-Beginner-3F51B5?style=for-the-badge)
 ![JavaScript Intermediate](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git Advanced](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Most Used Languages:
