@@ -11,7 +11,7 @@
 ## About Me
 
 - 🎓 **My studies:** Faculty of Automatic Control and Computer Science, UPB
-- 🧠 **Interests:** Web development, financial computing, mathematical statistics
+- 🧠 **Interests:** Web Development, Financial Computing, Embedded Systems
 - 🌱 **Learning:** I’m currently deepening my knowledge in Java, C, and Python. In parallel, I’m learning about Computer Vision, Machine Learning algorithms, and satellite data processing, with a focus on building real-world applications using geospatial data and AI.
 
 
