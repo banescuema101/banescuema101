@@ -17,7 +17,7 @@
 
 ## Languages, Skills and Profiency Levels:
 
-![Java Advanced](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java Advanced](https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C Advanced](https://img.shields.io/badge/C-Advanced-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++ Intermediate](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OpenCV Beginner](https://img.shields.io/badge/OpenCV-Beginner-27338e?style=for-the-badge&logo=opencv&logoColor=white)
