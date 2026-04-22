@@ -11,13 +11,13 @@
 ## About Me
 
 - 🎓 **My studies:** Faculty of Automatic Control and Computer Science, UPB
-- 🧠 **Interests:** Web Development, Financial Computing, Embedded Systems
+- 🧠 **Interests:** Backend Development, Cloud Computing, Distributed Systems, Machine Learning
 - 🌱 **Learning:** I’m currently deepening my knowledge in Java, C, and Python. In parallel, I’m learning about Computer Vision, Machine Learning algorithms, and satellite data processing, with a focus on building real-world applications using geospatial data and AI.
 
 
 ## Languages, Skills and Profiency Levels:
 
-![Java Intermediate](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java Advanced](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C Advanced](https://img.shields.io/badge/C-Advanced-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++ Intermediate](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OpenCV Beginner](https://img.shields.io/badge/OpenCV-Beginner-27338e?style=for-the-badge&logo=opencv&logoColor=white)
